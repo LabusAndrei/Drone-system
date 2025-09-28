@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+bmp280/__init__.py
+bmp280.egg-info/PKG-INFO
+bmp280.egg-info/SOURCES.txt
+bmp280.egg-info/dependency_links.txt
+bmp280.egg-info/requires.txt
+bmp280.egg-info/top_level.txt
